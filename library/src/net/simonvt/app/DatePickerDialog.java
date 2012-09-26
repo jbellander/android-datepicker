@@ -16,10 +16,11 @@
 
 package net.simonvt.app;
 
+import com.WazaBe.HoloEverywhere.app.AlertDialog;
+
 import net.simonvt.datepicker.R;
 import net.simonvt.widget.DatePicker;
 
-import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;
